@@ -1,0 +1,93 @@
+.actionButtons {
+    position:fixed;
+    bottom:25px;
+    left:0;
+    right:0;
+    height:10px;
+    padding-right:35px;
+    padding-bottom: 40px;
+}
+
+#thebutton {
+  font-size: 20px;
+  padding:7px 40px;
+  background: #000000;
+  color: #999999;
+  border: 0px;
+}
+
+#thebutton:hover{
+  background:#333333;
+  color: #ffffff;
+}
+
+.yourPriceHeading {
+  font-size: 30px;
+  padding: 50px 30px;
+  color: #ffffff;
+}
+
+.priceAreaContainer {
+  background: #333333;
+  padding: 50px 20px 40px 20px;
+  margin: 100px auto;
+  border-radius: 3px;
+  max-width: 870px;
+}
+.priceAreaContainer table{
+  max-width: 870px;
+}
+
+.priceAreaContainer table td{
+  margin: 30px;
+  padding: 20px 50px;
+}
+
+.priceAreaContainer label{
+  color: #ffffff;
+}
+
+.priceAreaContainer h2{
+  color: #ffffff;
+}
+.priceAreaContainer h3{
+  color: #ffffff;
+}
+.transText {
+  color: #ffffff;
+}
+
+.headings h2{
+  text-align: left;
+}
+
+.inputsTable{
+  background:rgb(99, 99, 99);
+  border-radius: 3px;
+  max-width: 870px;
+  box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.3);
+}
+
+.inputsTable h1{
+  color: #fafafa;
+}
+
+.navContainer {
+  background: #333333;
+}
+
+.navbar-nav a{
+  color: #fafafa;
+}
+
+.navbar-nav a:hover {
+  color:#333333;
+}
+
+.navbar-brand a{
+  #color: rgb(0, 166, 218);
+}
+
+.navbar-brand a:hover{
+  #color: #fafafa;
+}
